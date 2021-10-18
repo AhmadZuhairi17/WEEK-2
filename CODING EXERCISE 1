@@ -1,0 +1,18 @@
+package myLife;
+
+class CampusLife {
+
+	public static void main(String[] args) {
+    System.out.println("Pada setiap pagi, saya akan bangun pada pukul 6:30am untuk solat Subuh.");
+    System.out.println("Selepas solat, saya akan breakfast makanan ringan seperti biskut atau roti.");	
+    System.out.println("Selesai sahaja makan, saya akan pergi mandi.");
+    System.out.println("Selesai mandi saya akan ke bilik untuk bersiap sedia untuk memasuki kelas online.");
+    System.out.println("Sebelum membuka laptop, saya akan mengemas katil terlebih dahulu.");
+    System.out.println("Apabila ingin memasuki kelas, saya akan menyiapkan alatulis dan kelengkapan.");
+    System.out.println("Selepas tamat sahaja kelas online, sekiranya ada masa lapang saya akan pergi ke kafe untuk breakfast.");
+    System.out.println("Balik dari kafe, saya akan menyiapkan perkara yang wajib sebelum memasuki kelas seterusnya.");
+    System.out.println("Selepas kelas habis, saya akan pergi ke kafe untuk makan tengahari.");
+    System.out.print("Selesai sahaja makan tengahari, saya akan siap sedia untuk solat Zuhur.");
+	}
+
+}
