@@ -3,7 +3,7 @@ package myLife;
 class CampusLife {
 
 	public static void main(String[] args) {
-    System.out.println("MY LIFE IN CAMPUS FOR 1 DAY");
+                System.out.println("MY LIFE IN CAMPUS FOR 1 DAY");
 		System.out.println("6.30am : Wake Up ");
 		System.out.println("6:35am : Subuh Prayer And Get to Bath ");
 		System.out.println("7.15am : Get a light Breakfast");
